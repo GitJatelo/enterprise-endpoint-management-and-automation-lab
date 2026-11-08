@@ -306,6 +306,42 @@ Repository organization, documentation, validation, and GitHub publication.
 
 ---
 
+## Project Evidence
+
+The following screenshots document successful execution
+of selected endpoint management and automation simulations.
+
+### 01 - Application Version Compliance
+
+Demonstrates application version detection, minimum-version
+validation, and noncompliance reporting.
+
+![Application Compliance](evidence/01-application-compliance.png)
+
+### 02 - Jamf Policy Deployment Simulation
+
+Demonstrates simulated application installation and upgrade
+decisions across six synthetic macOS devices.
+
+![Jamf Policy Deployment](evidence/02-jamf-policy-deployment.png)
+
+### 03 - macOS Security Baseline Audit
+
+Evaluates simulated FileVault, firewall, and screen-lock
+compliance across ten synthetic devices.
+
+![macOS Security Baseline](evidence/03-macos-security-baseline.png)
+
+### 04 - Jamf Enrollment Troubleshooting
+
+Demonstrates troubleshooting decisions for simulated
+Apple Business Manager and Jamf enrollment failures.
+
+![Jamf Enrollment Troubleshooting](evidence/04-jamf-enrollment-troubleshooting.png)
+
+All results are generated using synthetic data and
+local simulations. No production endpoints were modified.
+
 ## Disclaimer
 
 This is an independent educational portfolio project.
