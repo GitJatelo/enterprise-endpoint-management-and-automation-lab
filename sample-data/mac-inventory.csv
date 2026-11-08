@@ -1,0 +1,11 @@
+Device,Department,OSVersion,AppInstalled,AppVersion
+MAC001,Design,15.0,Yes,2.5.0
+MAC002,Design,15.0,Yes,2.1.0
+MAC003,Music,14.7,No,0.0.0
+MAC004,Film,15.0,Yes,2.5.0
+MAC005,Design,14.7,Yes,2.0.0
+MAC006,Music,15.0,Yes,2.5.0
+MAC007,Film,14.7,No,0.0.0
+MAC008,Design,15.0,Yes,2.3.0
+MAC009,Music,15.0,Yes,2.5.0
+MAC010,Film,14.7,Yes,2.2.0

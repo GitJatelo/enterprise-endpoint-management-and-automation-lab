@@ -1,0 +1,11 @@
+Device,ABMAssigned,MDMServer,NetworkReachable,EnrollmentProfile,EnrollmentStatus
+MAC001,Yes,JamfPro,Yes,Assigned,Enrolled
+MAC002,Yes,JamfPro,Yes,Assigned,Enrolled
+MAC003,Yes,JamfPro,No,Assigned,Pending
+MAC004,Yes,JamfPro,Yes,Assigned,Enrolled
+MAC005,No,None,Yes,Missing,NotEnrolled
+MAC006,Yes,JamfPro,Yes,Assigned,Enrolled
+MAC007,Yes,LegacyMDM,Yes,Assigned,Enrolled
+MAC008,Yes,JamfPro,Yes,Missing,Pending
+MAC009,Yes,JamfPro,Yes,Assigned,Enrolled
+MAC010,No,None,Yes,Missing,NotEnrolled

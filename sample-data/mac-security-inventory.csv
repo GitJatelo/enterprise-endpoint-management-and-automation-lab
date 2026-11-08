@@ -1,0 +1,11 @@
+Device,Department,FileVault,Firewall,ScreenLock
+MAC001,Design,Enabled,Enabled,Enabled
+MAC002,Design,Disabled,Enabled,Enabled
+MAC003,Music,Enabled,Disabled,Enabled
+MAC004,Film,Enabled,Enabled,Enabled
+MAC005,Design,Enabled,Enabled,Disabled
+MAC006,Music,Enabled,Enabled,Enabled
+MAC007,Film,Disabled,Disabled,Enabled
+MAC008,Design,Enabled,Enabled,Enabled
+MAC009,Music,Enabled,Enabled,Enabled
+MAC010,Film,Enabled,Disabled,Disabled

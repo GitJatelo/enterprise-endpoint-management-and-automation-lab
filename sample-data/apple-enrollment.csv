@@ -1,0 +1,11 @@
+Device,Department,ABMAssigned,MDMServer,EnrollmentStatus
+MAC001,Design,Yes,JamfPro,Enrolled
+MAC002,Design,Yes,JamfPro,Enrolled
+MAC003,Music,Yes,JamfPro,Pending
+MAC004,Film,Yes,JamfPro,Enrolled
+MAC005,Design,No,None,NotEnrolled
+MAC006,Music,Yes,JamfPro,Enrolled
+MAC007,Film,Yes,LegacyMDM,Enrolled
+MAC008,Design,Yes,JamfPro,Pending
+MAC009,Music,Yes,JamfPro,Enrolled
+MAC010,Film,No,None,NotEnrolled
